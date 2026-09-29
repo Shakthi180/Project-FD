@@ -1,0 +1,38 @@
+transaction_id,user_id,amount,user_baseline,timestamp,location,merchant_category,is_anomaly,anomaly_type,original_index,spike_detected,velocity_detected,risk_score,risk_numeric
+TXN_000023,USER_0045,367.24,91.56,2026-09-05 07:18:56.456679,Jacquelineland,Entertainment,True,velocity,23,True,False,Medium,65
+TXN_000049,USER_0045,487.75,91.56,2026-08-27 06:08:56.456679,Port Keith,Entertainment,True,spike,49,True,False,Medium,65
+TXN_000051,USER_0041,852.95,110.68,2026-09-04 07:16:56.456679,Herrerafurt,Utilities,True,spike,51,True,False,Medium,65
+TXN_000092,USER_0013,412.09,98.74,2026-09-17 14:48:56.456679,Port Keith,Electronics,True,velocity,92,True,False,Medium,65
+TXN_000099,USER_0049,762.73,102.53,2026-08-31 02:53:56.456679,Herrerafurt,Entertainment,True,spike,99,True,False,Medium,65
+TXN_000144,USER_0031,402.2,98.35,2026-08-26 07:27:37.456679,New Jessica,Electronics,True,velocity,144,True,False,Medium,65
+TXN_000163,USER_0033,386.08,92.74,2026-09-16 06:29:56.456679,New Jessica,Utilities,True,velocity,163,True,True,High,95
+TXN_000194,USER_0035,420.17,65.595,2026-09-09 17:16:43.456679,New Jessica,Utilities,True,velocity,194,True,False,Medium,65
+TXN_000220,USER_0009,677.19,102.95,2026-09-14 12:23:56.456679,Port Keith,Grocery,True,spike,220,True,False,Medium,65
+TXN_000246,USER_0039,498.75,106.285,2026-09-20 19:47:56.456679,Robinsonshire,Grocery,True,spike,246,True,False,Medium,65
+TXN_000273,USER_0037,558.73,118.425,2026-08-27 19:47:56.456679,Lake Roberto,Entertainment,True,spike,273,True,False,Medium,65
+TXN_000288,USER_0013,756.22,98.74,2026-09-11 01:21:56.456679,Lake Debra,Grocery,True,spike,288,True,False,Medium,65
+TXN_000297,USER_0046,387.27,67.27,2026-09-15 15:46:56.456679,Port Jesseville,Entertainment,True,spike,297,True,False,Medium,65
+TXN_000315,USER_0047,967.62,123.73,2026-09-19 23:15:56.456679,Port Jesseville,Entertainment,True,spike,315,True,False,Medium,65
+TXN_000326,USER_0047,738.52,123.73,2026-08-29 10:42:56.456679,Lake Chad,Travel,True,spike,326,True,False,Medium,65
+TXN_000335,USER_0027,488.59,70.4,2026-09-15 10:58:56.456679,Ericmouth,Entertainment,True,spike,335,True,False,Medium,65
+TXN_000361,USER_0039,654.25,106.285,2026-08-29 17:06:56.456679,Ericmouth,Travel,True,spike,361,True,False,Medium,65
+TXN_000393,USER_0033,185.09,92.74,2026-09-16 06:30:56.456679,Robinsonshire,Electronics,True,velocity,393,False,True,Medium,65
+TXN_000468,USER_0009,483.73,102.95,2026-09-03 17:57:16.456679,Lake Roberto,Grocery,True,velocity,468,True,False,Medium,65
+TXN_000477,USER_0014,692.86,103.65,2026-09-04 02:24:56.456679,Herrerafurt,Electronics,True,spike,477,True,False,Medium,65
+TXN_000478,USER_0046,455.77,67.27,2026-08-29 23:14:56.456679,Ramirezstad,Utilities,True,spike,478,True,False,Medium,65
+TXN_000509,USER_0033,444.06,92.74,2026-08-26 05:49:56.456679,Robinsonshire,Utilities,True,spike,509,True,False,Medium,65
+TXN_000510,USER_0035,296.86,65.595,2026-08-24 20:31:56.456679,Lisatown,Electronics,True,spike,510,True,False,Medium,65
+TXN_000513,USER_0002,94.55,54.91,2026-09-05 23:20:56.456679,East Jill,Grocery,False,normal,513,False,True,Medium,65
+TXN_000517,USER_0025,580.82,84.71,2026-09-15 05:11:56.456679,North Judithbury,Utilities,True,spike,517,True,False,Medium,65
+TXN_000527,USER_0042,757.81,101.31,2026-08-28 08:36:56.456679,Robinsonshire,Electronics,True,spike,527,True,False,Medium,65
+TXN_000597,USER_0050,829.29,112.51,2026-09-20 00:23:56.456679,Port Jesseville,Travel,True,spike,597,True,False,Medium,65
+TXN_000611,USER_0044,714.16,116.835,2026-09-17 13:59:56.456679,North Judithbury,Travel,True,spike,611,True,False,Medium,65
+TXN_000630,USER_0017,398.04,74.68,2026-09-12 07:51:56.456679,New Jessica,Entertainment,True,spike,630,True,False,Medium,65
+TXN_000738,USER_0027,546.01,70.4,2026-08-27 08:40:56.456679,Lake Roberto,Utilities,True,spike,738,True,False,Medium,65
+TXN_000833,USER_0040,499.54,94.72,2026-09-09 17:15:56.456679,Lake Roberto,Entertainment,True,velocity,833,True,False,Medium,65
+TXN_000843,USER_0002,45.61,54.91,2026-09-05 23:20:56.456679,Herrerafurt,Grocery,False,normal,843,False,True,Medium,65
+TXN_000884,USER_0007,989.12,143.365,2026-09-18 00:27:56.456679,New Kellystad,Entertainment,True,spike,884,True,False,Medium,65
+TXN_000886,USER_0009,449.27,102.95,2026-09-19 19:50:56.456679,East Jill,Electronics,True,velocity,886,True,False,Medium,65
+TXN_000956,USER_0035,470.77,65.595,2026-09-07 05:03:56.456679,West Michael,Entertainment,True,velocity,956,True,False,Medium,65
+TXN_000967,USER_0014,759.22,103.65,2026-09-14 16:24:56.456679,Port Keith,Utilities,True,spike,967,True,False,Medium,65
+TXN_000968,USER_0010,602.61,84.95,2026-09-01 11:29:56.456679,New Roberttown,Grocery,True,spike,968,True,False,Medium,65
